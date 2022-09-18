@@ -5,7 +5,7 @@ Exercises in python 3.7
 Smurf number finder. A Smurf number is equal to the sum of its digits been exponented with its index.
 Examples of Smurf numbers:
   89=8^1+9^2 and 
-  135=1^1+3^2+5^3
+  135=1^1+3^2+5^3.
   
 # Exercise 2
 String trasformation. String's letters must be shifted to 13 Ascii places. If the shift exceeds the letters "z" or "Z", then it must continue shifting after "a" or "A".
