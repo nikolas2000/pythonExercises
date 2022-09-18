@@ -11,7 +11,7 @@ Examples of Smurf numbers:
 String trasformation. String's letters must be shifted to 13 Ascii places. If the shift exceeds the letters "z" or "Z", then it must continue shifting after "a" or "A".
 
 # Exercise 8
-Integer to Latin/Roman numbers converter.
+Integer to Latin/Roman number converter.
 
 # Exercise 11
 SOS Game. Find how many sos exist into a table (1D and 2D) horizontally, vertically and diagonally.
